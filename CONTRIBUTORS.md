@@ -32,7 +32,7 @@
 | 28      | [Sayed Mohd Kazim Mehdi](https://github.com/kazimsayed954)     | Anjuman-I-Islam's Kalsekar Technical Campus                         | Android, Java ,Kotlin, Flutter, Python                             |
 | 29      | [Shubham Yadav](https://github.com/shubhamdsm)                 | Lovely Professional University                                      | HTML5, CSS, Javascript, React                                      |
 | 30      | [Sravya Sri Virigineni](https://github.com/sravyasri2001)      | GVP college Of Engineering                                          | C++,Java,MySQL,DSA,HTML,CSS,JS,Python                              |
-| 31      | [Sweta Maharjan](https://github.com/itssss-sweta) |           | Madan Bhandari Memorial College                                     | HTML,CSS,C                                                       |        
+| 31      | [Sweta Maharjan](https://github.com/itssss-sweta) |            | Madan Bhandari Memorial College                                     | HTML5, CSS, C                                                       |        
 | 32      | [Tusharr_Gupta](https://github.com/Tusharr08)                  | Pranveer Singh Institute Of Technology                              | HTML, CSS, JS, PYTHON, C, SQLite, Github, Java                     |
 | 33      | [Vaibhav Sharma](https://github.com/gigabite-pro)              | Amity International School                                          | Flutter, Python, Javascript, Express, Node.js                      |
 | 34      | [Vineesha Andhavarapu](https://github.com/VINEESHAANDHAVARAPU) | GVPCE                                                               | HTML,CSS,JS,PYTHON,FLUTTER                                         |
